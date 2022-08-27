@@ -64,10 +64,7 @@ All our liveries are updated with authentic VL-3 915 performance placards inside
 
 ### 1. Download the Mod
 
-Choose from one of these two:
-
-* Download the [Latest Release](https://github.com/r9r-dev/fs2020-vl3-rotax915/releases) (fully tested and verified before publication)
-* Download the [Live Build](https://915.r9r.dev/latest.zip) (our live ongoing project - newer than the Latest Release - but there could be some bugs)  
+Download the repository via the grenn `Code` button above and select `Download as ZIP`. 
 
 In addition, we also HIGHLY SUGGEST downloading the [Working Title GX Mod](https://github.com/Working-Title-MSFS-Mods/fspackages/releases/tag/gx-v0.1.0-dev1) for improvements to the G3X Touch, including Autopilot integration!
 
